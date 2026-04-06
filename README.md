@@ -138,6 +138,5 @@ Compared 5 regression algorithms on the California Housing dataset to predict ho
  
 ---
  
-*"Turning raw data into decisions."*
 
 *"Turning raw data into decisions."*
