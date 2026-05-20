@@ -1,7 +1,7 @@
 <!-- ======================= BANNER ======================= -->
 
 <p align="center">
-  <img src="https://via.placeholder.com/1000x250.png?text=Namitha+P+Menon+%7C+Data+Analyst+%26+ML+Enthusiast+%7C+UAE" alt="GitHub Banner"/>
+  <img src="https://via.placeholder.com/1000x260/0A2540/FFFFFF?text=Namitha+P+Menon+%7C+Data+Analyst+%26+ML+Enthusiast+%7C+UAE"/>
 </p>
 
 <!-- ======================= BRANDING LINE ======================= -->
