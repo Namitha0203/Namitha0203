@@ -1,10 +1,6 @@
 <!-- ======================= BANNER ======================= -->
 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Namitha%20P%20Menon-Data%20Analyst%20%7C%20ML%20Enthusiast%20%7C%20UAE-0A2540?style=for-the-badge&logoColor=white" width="800">
-</p>
-
 <!-- ======================= BRANDING LINE ======================= -->
 
 <h1 align="center">Hi, I'm Namitha P Menon 👋</h1>
