@@ -1,7 +1,8 @@
 <!-- ======================= BANNER ======================= -->
 
+
 <p align="center">
-  <img src="https://via.placeholder.com/1000x260/0A2540/FFFFFF?text=Namitha+P+Menon+%7C+Data+Analyst+%26+ML+Enthusiast+%7C+UAE"/>
+  <img src="https://img.shields.io/badge/👩‍💻%20Namitha%20P%20Menon%20-%20Data%20Analyst%20%7C%20ML%20Enthusiast%20%7C%20UAE%20🇦🇪-blueviolet?style=for-the-badge" width="850">
 </p>
 
 <!-- ======================= BRANDING LINE ======================= -->
